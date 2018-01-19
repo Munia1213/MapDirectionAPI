@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Map Direction</string>
+    <string name="google_map_api">AIzaSyA4Lp9UuhbW3RtUAk-_ku-SvCpQDNUxbvo</string>
+    <string name="google_direction_api">AIzaSyAALicks8SNwRDdSKE7qeuRx5JANHEASm4</string>
+
+</resources>
